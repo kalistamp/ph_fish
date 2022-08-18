@@ -1,3 +1,8 @@
+
+CHECK -
+
+https://null-byte.wonderhowto.com/forum/complete-guide-creating-and-hosting-phishing-page-for-beginners-0187744/
+
 ### Phishing Basics:
 
 The basic idea behind phishing is to create a copy of login or whole website and allow user to login so as to save account credentials. 
