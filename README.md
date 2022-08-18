@@ -5,6 +5,13 @@ https://null-byte.wonderhowto.com/forum/complete-guide-creating-and-hosting-phis
 
 https://cybersecurityguide.org/resources/phishing/
 
+
+### Personal Nts:
+
+Forum replys on phishing -
+
+phishing with reverse proxies is alright | modlishka / evilnginx 
+
 ### Phishing Basics:
 
 The basic idea behind phishing is to create a copy of login or whole website and allow user to login so as to save account credentials. 
