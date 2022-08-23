@@ -12,6 +12,9 @@ A:
 
 you will need to change the content.
 
+* Big mail providers like gmail often have pretty good filters, target companies
+
+* filter by domain (gmail,yahoo,hotmail) and then filter by country. use good smtp
 
 
 
