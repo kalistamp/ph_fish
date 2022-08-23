@@ -4,6 +4,12 @@ I've been phishing for quite some time now and have nearly 100k emails either sc
 
 A:
 
+* one advice : target new areas/countries, less targeted.
+
+* I recommend that you only target a specific country on each email and add a few seconds delay for each delivery. Don't send too many emails should be limited but i think you need many SMTP for send it LoL
+
+* 
+
 
 * * * 
 
