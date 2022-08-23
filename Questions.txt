@@ -8,7 +8,11 @@ A:
 
 * I recommend that you only target a specific country on each email and add a few seconds delay for each delivery. Don't send too many emails should be limited but i think you need many SMTP for send it LoL
 
-* 
+* Run your email through a spam filter first, It is very easy to detect phishing or spamming context.
+
+you will need to change the content.
+
+
 
 
 * * * 
