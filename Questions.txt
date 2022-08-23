@@ -1,0 +1,9 @@
+Q:
+
+I've been phishing for quite some time now and have nearly 100k emails either scraped or taken from fresh databases as well as multiple realistic website clones. Everything has been smooth-sailing until like a week ago when despite me sending the email to 5k people, i got like 2 results. this was when i found out that every single one of my emails are going to the recipients spam. I've made multiple different emails, used  a vpn, proxies, virtual machines and different mail providers but despite all that every single email that has more than 30 recipients is going to spam.. whats the issue??
+
+A:
+
+
+* * * 
+
