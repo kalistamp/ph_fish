@@ -8,9 +8,7 @@ https://cybersecurityguide.org/resources/phishing/
 
 ### Personal Nts:
 
-Forum replys on phishing -
-
-phishing with reverse proxies is alright | modlishka / evilnginx 
+* NTS HERE ---
 
 ### Phishing Basics:
 
