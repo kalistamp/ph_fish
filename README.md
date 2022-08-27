@@ -5,6 +5,8 @@ https://null-byte.wonderhowto.com/forum/complete-guide-creating-and-hosting-phis
 
 https://cybersecurityguide.org/resources/phishing/
 
+https://classroom.anir0y.in/post/tryhackme-phishingyl/
+
 
 ### Personal Nts:
 
