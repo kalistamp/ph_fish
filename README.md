@@ -27,6 +27,9 @@ The basic idea behind phishing is to create a copy of a login page or whole webs
 
 Spear-phishing, as with throwing a physical spear; you’d have a target to aim at, the same can be said with spear-phishing in that you’re targeting an individual, business or organisation rather than just anybody as mass. This is an effective form of phishing for a red team engagement as they are bespoke to the target it makes them hard to detect by technology such as spam filters, antivirus and firewalls.
 
+* Whale Phishing
+* Smishing (SMS)
+
 * * *
 
 ### Set-Up:
