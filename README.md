@@ -58,6 +58,10 @@ Your photos have been published.
 
 * The Content:
 
+If impersonating a brand or supplier, it would be pertinent to research their standard email templates and branding (style, logo’s images, signoffs etc.) and make your content look the same as theirs, so the victim doesn’t expect anything. If impersonating a contact or coworker, it could be beneficial to contact them; first, they may have some branding in their template, have a particular email signature or even something small such as how they refer to themselves, for example, someone might have the name Dorothy and their email is [email protected]. Still, in their signature, it might say “Best Regards, Dot”. Learning these somewhat small things can sometimes have quite dramatic psychological effects on the victim and convince them more to open and act on the email.
+
+If you’ve set up a spoof website to harvest data or distribute malware, the links to this should be disguised using the anchor text and changing it either to some text which says “Click Here” or changing it to a correct looking link that reflects the business you are spoofing, for example:
+
 
 
 
