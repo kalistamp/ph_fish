@@ -87,4 +87,23 @@ Setting up DNS Records such as SPF, DKIM, DMARC will improve the deliverability 
 
 ``` [NOTE] ``` Web Server - You’ll need to set up webservers or purchase web hosting from a company to host your phishing websites. Adding SSL/TLS to the websites will give them an extra layer of authenticity.
 
+Summary: DNS has TXT records that can improve email deliverability ...
+
+* ``` EXTRA ``` Analytics:
+
+When a phishing campaign is part of a red team engagement, keeping analytics information is more important. You’ll need something to keep track of the emails that have been sent, opened or clicked. You’ll also need to combine it with information from your phishing websites for which users have supplied personal information or downloaded software.
+
+* * *
+
+### Automation Tools:
+
+Some of the above infrastructures can be quickly automated by using the below tools.
+
+* GoPhish
+* SET (Social Engineering Toolkit)
+* MORE HERE ...
+
+* * *
+
+
 
