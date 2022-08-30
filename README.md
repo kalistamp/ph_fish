@@ -63,6 +63,28 @@ If impersonating a brand or supplier, it would be pertinent to research their st
 If you’ve set up a spoof website to harvest data or distribute malware, the links to this should be disguised using the anchor text and changing it either to some text which says “Click Here” or changing it to a correct looking link that reflects the business you are spoofing, for example:
 
 
-
-
 * * *
+
+### Infrastructure:
+
+A certain amount of infrastructure will need to be put in place to launch a successful phishing campaign.
+
+* Domain Name:
+
+You’ll need to register either an authentic-looking domain name or one that mimics the identity of another domain. Look into tools such as [go_phish](https://github.com/gophish/gophish) on how to create a domain name.
+
+* SSL/TLS Certificates:
+
+Creating SSL/TLS certificates for your chosen domain name will add an extra layer of authenticity to the attack.
+
+* Email Server/Account:
+
+You’ll need to either set up an email server or register with an SMTP email provider.
+
+* DNS Records:
+
+Setting up DNS Records such as SPF, DKIM, DMARC will improve the deliverability of your emails and make sure they’re getting into the inbox rather than the spam folder.
+
+``` [NOTE] ``` Web Server - You’ll need to set up webservers or purchase web hosting from a company to host your phishing websites. Adding SSL/TLS to the websites will give them an extra layer of authenticity.
+
+
