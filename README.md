@@ -7,10 +7,18 @@ https://cybersecurityguide.org/resources/phishing/
 
 https://classroom.anir0y.in/post/tryhackme-phishingyl/
 
+Knowbe4 Phishing security Test
+
+Microsoft 
+
 
 ### Personal Nts:
 
 * NTS HERE ---
+
+CLOUD: 
+- Netlify
+- Railway
 
 ### Phishing Basics:
 
