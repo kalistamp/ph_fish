@@ -95,6 +95,41 @@ Some of the above infrastructures (DOMAIN | SSL | SMTP | DNS RECORDS) can be qui
 * * *
 Once the Above Infrastructure is set up you will need to have your ```Landing Page``` Source code ready for whatever site you plan on mimicking- (This is the website that the Phishing email is going to direct the victim to; this page is usually a spoof of a website the victim is familiar with.)
 
+* * *
+
+### Choosing A Phishing Domain:
+
+Choosing the right Phishing domain to launch your attack from is essential to ensure you have the psychological edge over your target. A red team engagement can use some of the below methods for choosing the perfect domain name.
+
+Expired Domains:
+
+Although not essential, buying a domain name with some history may lead to better scoring of your domain when it comes to spam filters. Spam filters have a tendency to not trust brand new domain names compared to ones with some history
+
+Typosquatting:
+
+Typosquatting is when a registered domain looks very similar to the target domain you’re trying to impersonate. Here are some of the common methods:
+
+Misspelling: goggle.com Vs google.com
+Additional Period: go.ogle.com Vs google.com
+Switching numbers for letters: g00gle.com Vs google.com
+Phrasing: googles.com Vs google.com
+Additional Word: googleresults.com Vs google.com
+These changes might look unrealistic, but at a glance, the human brain tends to fill in the blanks and see what it wants to see, i.e. the correct domain name.
+
+TLD Alternatives:
+
+A TLD (Top Level Domain) is the .com .net .co.uk .org .gov e.t.c part of a domain name, there are 100’s of variants of TLD’s now. A common trick for choosing a domain would be to use the same name but with a different TLD. For example, register reddit.co.uk to impersonate reddit.com
+
+* * *
+
+### Droppers:
+
+Droppers are software that phishing victims tend to be tricked into downloading and running on their system. The dropper may advertise itself as something useful or legitimate such as a codec to view a certain video or software to open a specific file.
+
+The droppers are not usually malicious themselves, so they tend to pass antivirus checks. Once installed, the intended malware is either unpacked or downloaded from a server and installed onto the victim’s computer. The malicious software usually connects back to the attacker’s infrastructure. The attacker can take control of the victim’s computer, which can further explore and exploit the local network.
+
+
+
 ***
 
 * [SOURCE](https://classroom.anir0y.in/post/tryhackme-phishingyl/#task-03-writing-convincing-phishing-emails)
