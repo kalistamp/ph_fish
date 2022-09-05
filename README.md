@@ -105,7 +105,7 @@ When a phishing campaign is part of a red team engagement, keeping analytics inf
 
 ### Automation Tools:
 
-Some of the above infrastructures can be quickly automated by using the below tools.
+Some of the above infrastructures (DOMAIN | SSL | SMTP | DNS RECORDS) can be quickly automated by using the below tools.
 
 * GoPhish
 * SET (Social Engineering Toolkit)
@@ -114,6 +114,7 @@ Some of the above infrastructures can be quickly automated by using the below to
 * Modlishka
 
 * * *
+Once the Above Infrastructure is set up you will need to have your ```Landing Page``` Source code ready for whatever site you plan on mimicking- (This is the website that the Phishing email is going to direct the victim to; this page is usually a spoof of a website the victim is familiar with.)
 
 
 
