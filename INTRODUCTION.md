@@ -94,3 +94,8 @@ Some of the above infrastructures (DOMAIN | SSL | SMTP | DNS RECORDS) can be qui
 
 * * *
 Once the Above Infrastructure is set up you will need to have your ```Landing Page``` Source code ready for whatever site you plan on mimicking- (This is the website that the Phishing email is going to direct the victim to; this page is usually a spoof of a website the victim is familiar with.)
+
+***
+
+* [SOURCE](https://classroom.anir0y.in/post/tryhackme-phishingyl/#task-03-writing-convincing-phishing-emails)
+* [hOMEPAGE](https://classroom.anir0y.in/categories/tryhackme/)
