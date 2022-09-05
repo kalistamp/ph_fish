@@ -110,7 +110,8 @@ Some of the above infrastructures can be quickly automated by using the below to
 * GoPhish
 * SET (Social Engineering Toolkit)
 * [King-phisher](https://github.com/rsmusllp/king-phisher)
-* MORE HERE ...
+* Evilginx
+* Modlishka
 
 * * *
 
