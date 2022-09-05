@@ -99,6 +99,8 @@ Once the Above Infrastructure is set up you will need to have your ```Landing Pa
 
 ### Choosing A Phishing Domain:
 
+[ Expired/OLD Domains are better than new ones to avoid spam folder ] 
+
 Choosing the right Phishing domain to launch your attack from is essential to ensure you have the psychological edge over your target. A red team engagement can use some of the below methods for choosing the perfect domain name.
 
 Expired Domains:
@@ -119,6 +121,12 @@ These changes might look unrealistic, but at a glance, the human brain tends to 
 TLD Alternatives:
 
 A TLD (Top Level Domain) is the .com .net .co.uk .org .gov e.t.c part of a domain name, there are 100’s of variants of TLD’s now. A common trick for choosing a domain would be to use the same name but with a different TLD. For example, register reddit.co.uk to impersonate reddit.com
+
+* IDN Homograph Attack/Script Spoofing:
+
+Originally domain names were made up of Latin characters a-z and 0-9, but in 1998, IDN (internationalized domain name) was implemented to support language-specific script or alphabet from other languages such as Arabic, Chinese, Cyrillic, Hebrew and more. An issue that arises from the IDN implementation is that different letters from different languages can actually appear identical. For example, Unicode character U+0430 (Cyrillic small letter a) looks identical to Unicode character U+0061 (Latin small letter a) used in English, enabling attackers to register a domain name that looks almost identical to another.
+
+[Read on IDN Attacks](https://dobby1kenobi.medium.com/lost-in-translation-222bbf00f2c)
 
 * * *
 
