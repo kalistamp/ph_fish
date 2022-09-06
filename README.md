@@ -11,6 +11,7 @@ Knowbe4 Phishing security Test
 
 [Microsoft](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulation-training?view=o365-worldwide)
 
+https://sidb.in/posts/phishing-101/#final-thoughts
 
 ### Personal Nts:
 
