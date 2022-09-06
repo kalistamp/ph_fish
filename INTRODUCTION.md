@@ -25,7 +25,7 @@ Three  things to work with regarding phishing emails - Sender’s email address 
 
 * The Senders Address: [Reference Image ](https://assets.tryhackme.com/additional/phishing1/email-network-flow-4.png)
 
-(  Run your email through a spam filter first, It is very easy to detect phishing or spamming context, Big mail providers like gmail often have pretty good filters, target companies - Use good SMTP )
+(  Run your email through a spam filter first, It is very easy to detect phishing or spamming context, Big mail providers like gmail often have pretty good filters, target companies - Use good SMTP ) ``` SMTP Port 465 ``` | ``` IMAP Port 993 ``` | ``` Pop3 Port 995 ```
 
 Sending a Trusted source that the victim will feel comfortable clicking on is important,
 Ideally, the sender’s address would be from a domain name that spoofs a significant brand, a known contact, or a coworker.
