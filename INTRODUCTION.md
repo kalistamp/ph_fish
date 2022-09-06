@@ -23,7 +23,7 @@ Spear-phishing, as with throwing a physical spear; you’d have a target to aim 
 
 Three  things to work with regarding phishing emails - Sender’s email address | the subject | and the content
 
-* The Senders Address:
+* The Senders Address: [Reference Image ](https://assets.tryhackme.com/additional/phishing1/email-network-flow-4.png)
 
 (  Run your email through a spam filter first, It is very easy to detect phishing or spamming context, Big mail providers like gmail often have pretty good filters, target companies - Use good SMTP )
 
