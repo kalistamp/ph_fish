@@ -20,3 +20,6 @@ https://sidb.in/posts/phishing-101/#final-thoughts
 CLOUD: 
 - Netlify
 - Railway
+
+***
+ ``` Disclaimer: This script is for educational purposes only. Please don’t use this knowledge for malicious purposes ```
