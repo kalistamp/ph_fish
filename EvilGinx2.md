@@ -9,6 +9,7 @@ make
 sudo cp bin/evilginx /usr/bin
 sudo cp -r phishlets/ /usr/share/evilginx/
 sudo cp -r templates /usr/share/evilginx/
+sudo evilginx
 ```
 
 
