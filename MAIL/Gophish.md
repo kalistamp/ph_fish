@@ -28,7 +28,30 @@ After the Config.json file is configured correctly you can now run the binary:
 
 Your temporary credentials for the GoPhish Admin Panel will be printed in the logs from the running gophish binary.
 
+***
+
 ### Setting up an email Template in GoPhish:
+
+We set up and configure the email which shall be received by the victim here. To make a convincing email template, go through your own inbox and try to find an existing email from the website you’re trying to spoof. 
+
+As an example, you can use a Password-Reset Confirmation Email which was received from LinkedIn.
+
+* Click on the three-dot options button and Download the Email you want to use as a template.
+* Open the file and copy its contents.
+* Now navigate to Email Templates tab and create a new template. 
+* Click on Import Email and paste the copied contents.
+* (CHECK THIS TO BETTER UNDERSTAND) - Optionally, check the Change Links to Point to Landing Page checkbox. This will change all the links in the mail to point to the spoofed landing page.
+
+Now, in the HTML tab, modify the contents to your own liking - (Crafting a convincing email is very important, so if you’re doing this for an assessment, take your time to craft a phishing email.)
+
+(READ THIS SECTION OVER AGAIN FROM SOURCE)
+
+*** 
+
+
+
+
+
 
 
 
