@@ -13,10 +13,6 @@ Knowbe4 Phishing security Test
 
 https://sidb.in/posts/phishing-101/#final-thoughts
 
-### Personal Nts:
-
-* NTS HERE ---
-
 CLOUD: 
 - Netlify
 - Railway
