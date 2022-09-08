@@ -48,6 +48,8 @@ Now, in the HTML tab, modify the contents to your own liking - (Crafting a convi
 
 *** 
 
+### Setting up the Landing Page in GoPhish:
+
 
 
 
