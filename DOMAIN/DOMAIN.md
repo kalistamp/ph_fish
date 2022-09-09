@@ -21,6 +21,12 @@ urlcrazy therecap.org
 Another option is to obtain a free domain from [Freenom](https://www.freenom.com/en/index.html?lang=en) which offers free Top Level Domains (TLD) that are available ...
 
 
+***
+
+Search Expired Domains for a now available, high reputation domain. ExpireDomains is in essence a garbage bin that shows you how much value a discarded domain has... a wonderful resource to the adversaries: 
+https://www.expireddomains.net/
+
+
 
 
 
