@@ -61,7 +61,10 @@ Email service providers do not trust messages that have not set up domain authen
 Login to your SendGrid account and navigate at Sender Authentication under Settings:
 1. Click on the "Authenticate Your Domain" under Domain Authentication section.
 2. Select your Domain provided under DNS host option and specify Yes under the question "Would you also like to brand the links for this domain?"
+3. Enter your domain and expand the Advanced Settings option. From the Advanced Settings checkbox and apply the following values accordingly:
 
+- Use custom link subdomain
+- Use a common DKIM selector 
 
 
 
