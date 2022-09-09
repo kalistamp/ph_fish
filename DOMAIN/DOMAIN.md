@@ -58,6 +58,10 @@ Domain authentication, formerly known as domain whitelabel, shows email provider
 
 Email service providers do not trust messages that have not set up domain authentication because they cannot be sure of the legitimacy of the message. Explicitly stating that it comes from our registered domain increases the reputation with email service providers which makes it much less likely that they will filter the mail and not allow it get to the recipient's inbox, which increases the deliverability.
 
+Login to your SendGrid account and navigate at Sender Authentication under Settings:
+1. Click on the "Authenticate Your Domain" under Domain Authentication section.
+2. Select your Domain provided under DNS host option and specify Yes under the question "Would you also like to brand the links for this domain?"
+
 
 
 
