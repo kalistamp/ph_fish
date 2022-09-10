@@ -9,6 +9,8 @@ https://classroom.anir0y.in/post/tryhackme-phishingyl/
 
 Knowbe4 Phishing security Test
 
+https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/phishing
+
 https://outpost24.com/blog/Better-proxy-than-story
 
 https://github.com/fin3ss3g0d/evilgophish
