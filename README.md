@@ -30,4 +30,4 @@ CLOUD:
 - Railway
 
 ***
- ``` Disclaimer: This script is for educational purposes only. Please don’t use this knowledge for malicious purposes ```
+ ``` Disclaimer: Usage of this information for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this programs ```
