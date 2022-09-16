@@ -34,3 +34,16 @@ you will need to change the content.
 
 * * * 
 
+This is a Free hosting list to help you Host a static site
+it can be used to Host a simple site or just for developing your script
+
+- https://www.infinityfree.net/ (my favorite)
+- https://www.wix.com/ (good for your small business)
+- https://000webhost.com/ (good one for developing a static site)
+- https://cloud.google.com/solutions/web-hosting (can use trial, but need payment card)
+- https://www.awardspace.com/ (very good for students to learn about web dev)
+- https://www.freehostia.com/ (limited fiture)
+- https://www.freehosting.com/ (i never try this before)
+- https://byet.host/ (slow server at some country)
+
+
