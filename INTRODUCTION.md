@@ -21,11 +21,11 @@ Spear-phishing, as with throwing a physical spear; you’d have a target to aim 
 
 ### Set-Up:
 
-Three  things to work with regarding phishing emails - Sender’s email address | the subject | and the content
+Three  things to work with regarding phishing emails - ```Sender’s email address``` | ```the subject``` | and ```the content```
 
 How email travels from the sender to the recipient ---> [Reference Image ](https://assets.tryhackme.com/additional/phishing1/email-network-flow-4.png)
 
-* The Senders Address:
+* ```The Senders Address:```
 
 (  Run your email through a spam filter first, It is very easy to detect phishing or spamming context, Big mail providers like gmail often have pretty good filters, target companies - Use good SMTP ) ``` SMTP Port 465 ``` | ``` IMAP Port 993 ``` | ``` Pop3 Port 995 ```
 
@@ -36,7 +36,7 @@ To find what brands or people a victim interacts with, you can employ OSINT (Ope
 
 Observe their social media account for any brands or friends they talk to. Searching Google for the victim’s name and rough location for any reviews the victim may have left about local businesses or brands. Looking at the victim’s business website to find suppliers. Looking at LinkedIn to find coworkers of the victim.
 
-* The Subject:
+* ```The Subject:```
 
 You should set the subject to something quite urgent, worrying, or piques the victim’s curiosity, so they do not ignore it and act on it quickly.
 
@@ -45,7 +45,7 @@ Your package has been dispatched/shipped.
 Staff payroll information (do not forward!)
 Your photos have been published.
 
-* The Content:
+* ```The Content:```
 
 If impersonating a brand or supplier, it would be pertinent to research their standard email templates and branding (style, logo’s images, signoffs etc.) and make your content look the same as theirs, so the victim doesn’t expect anything. If impersonating a contact or coworker, it could be beneficial to contact them; first, they may have some branding in their template, have a particular email signature or even something small such as how they refer to themselves, for example, someone might have the name Dorothy and their email is [email protected]. Still, in their signature, it might say “Best Regards, Dot”. Learning these somewhat small things can sometimes have quite dramatic psychological effects on the victim and convince them more to open and act on the email.
 
