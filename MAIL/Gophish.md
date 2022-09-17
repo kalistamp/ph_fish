@@ -77,7 +77,9 @@ NOTE: If you would like to test a simpilar phish and do not want to set up evilg
 
 ### Sending Profile:
 
-This is referring to who the email is going to be coming from, This could be something like ``I.T. Administrator```, or `company support```, or anyone who you choose to impersonate
+This is referring to who the email is going to be coming from, This could be something like ``I.T. Administrator```, or `company support```, or anyone who you choose to impersonate.
+
+Whatever you choose, this identity is being spoofed by whatever domain we just obtained earlier
 
 
 
