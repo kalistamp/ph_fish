@@ -30,6 +30,19 @@ Your temporary credentials for the GoPhish Admin Panel will be printed in the lo
 
 ***
 
+### Campaign:
+
+Here on this Tab you will be able to see all the statistics from your phishing campaign such as who clicked your email, who submitted credentials, and more things like that ...
+
+***
+
+### User & Groups:
+
+This is were you will input who you plan on sending your emails out too. You can put in the The name
+
+
+***
+
 ### Setting up an email Template in GoPhish:
 
 We set up and configure the email which shall be received by the victim here. To make a convincing email template, go through your own inbox and try to find an existing email from the website you’re trying to spoof. 
