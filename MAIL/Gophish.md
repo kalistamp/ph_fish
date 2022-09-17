@@ -43,7 +43,9 @@ This is were you will input who you plan on sending your emails out too. You can
 
 ***
 
-### Setting up an email Template in GoPhish:
+### Email Template:
+
+This is where you will enter the HTML code which will determine how your email will be displayed ( See reference below ) 
 
 We set up and configure the email which shall be received by the victim here. To make a convincing email template, go through your own inbox and try to find an existing email from the website you’re trying to spoof. 
 
