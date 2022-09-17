@@ -2,7 +2,7 @@
 ### Introduction:
 
 Evilginx2 is a man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection. 
-What is means is Evilginx2 is siting in the communication between our victim and the actual legitimate login page capturing all traffic passed through. This means we can also capture the session cookies and inout them into our own browser allowing us to successfully authenticate ourselves when it is time to login with the credentials we have aquired.
+What is means is Evilginx2 is siting in the communication between our victim and the actual legitimate login page capturing all traffic passed through. This means we can also capture the session cookies and inout them into our own browser allowing us to successfully authenticate ourselves as the victim, when it is time to login with the credentials we have aquired.
 
 
 ### Configuring EvilGinx2:
