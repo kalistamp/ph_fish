@@ -69,6 +69,16 @@ The landing page is what you want users to “land” on once they click on the 
 
 Instead of working with Gophish for this part of the campaign we are going to instead use another tool ```evilginx2``` to create our own custom landing page.
 
+NOTE: If you would like to test a simpilar phish and do not want to set up evilginx2, you can come here in this tab on Gophish and Capture Passwords 
+
+
+
+***
+
+### Sending Profile:
+
+This is referring to who the email is going to be coming from, This could be something like ``I.T. Administrator```, or `company support```, or anyone who you choose to impersonate
+
 
 
 ***
