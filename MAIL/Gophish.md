@@ -63,9 +63,15 @@ Now, in the HTML tab, modify the contents to your own liking - (Crafting a convi
 
 *** 
 
-### Setting up the Landing Page in GoPhish:
+### Landing page:
 
-The landing page is what you want users to “land” on once they click on the link in the email. Once in the GoPhish admin panel, navigate to Landing Pages and create a new page. Give it a page name and for the page content, add the following.
+The landing page is what you want users to “land” on once they click on the link in the email. 
+
+Instead of working with Gophish for this part of the campaign we are going to instead use another tool ```evilginx2``` to create our own custom landing page.
+
+
+
+***
 
 ( CHECK OVER THIS WHOLE FILE BRIEFLY AND FIGURE IT OUT - - -)
 
