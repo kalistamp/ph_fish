@@ -18,7 +18,7 @@ urlcrazy therecap.org
 
 ***
 
-Another option is to obtain a free domain from [Freenom](https://www.freenom.com/en/index.html?lang=en) which offers free Top Level Domains (TLD) that are available ...
+Another option is to obtain a free domain from [Freenom](https://www.freenom.com/en/index.html?lang=en) which offers free Top Level Domains (TLD) that are available - [Type in the domain ending exetension in the search bar after you have chosen the one you like]  ...
 
 
 ***
