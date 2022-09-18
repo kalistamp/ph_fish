@@ -1,3 +1,12 @@
 
 
 CHECK usb Notes for all Credentials ... 
+
+
+***
+
+[ Drop down in order of steps completed...]
+
+* Obtained a Domain from Freenom (http://raymondspizzeria.cf/)
+* Created AWS Account for cloud - rroadrunner @ proton
+* 
