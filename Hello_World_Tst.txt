@@ -1,16 +1,32 @@
 
 
-CHECK usb Notes for all Credentials ... 
+           CHECK usb Notes for all Credentials ... 
 
 
 ***
 
-[ Drop down in order of steps completed...]
+            [ Drop down in order of steps completed...]
+            
+           
 
-* Obtained a Domain from Freenom (http://raymondspizzeria.cf/)
+* Obtained a Domain from Freenom (http://raymondspizzeria.cf/) 
+    #Chose to grab a domain from Freenom instead of AWS Route 53 even tho i will be using most AWS for this first tester campaign 
+
 * Created AWS Account for cloud - rroadrunner @ proton
+
 * Create an AWS EC2 Instance (This is pretty much just a dedicated aws server)
-* 
+    #Ec2 is the erver out victims will be connecting too
+
+* Create an AWS S3 Bucket to receive emails back to our Domain we get earlier from Freenom 
+    #If the victim responds back to our phishing email, you will be able to read the contents of there reply here
+    
+*
+
+
+*
+*
+*
+*
 
 AWS Will not let me access ec2 because it is verifying my account still smh - - - 
 
