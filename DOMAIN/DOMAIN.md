@@ -31,6 +31,7 @@ Originally domain names were made up of Latin characters a-z and 0-9, but in 199
 
 https://altcodeunicode.com/
 
+***
 
 ### Options for getting a Domain:
 
