@@ -1,5 +1,5 @@
 
-### Getting a Domain:
+### Options for getting a Domain:
 
 A domain name needs to be convincing and similar enough to the domain of the legitimate website. One can use [urlcrazy](https://github.com/urbanadventurer/urlcrazy) or [catphish](https://github.com/ring0lab/catphish) to generate a list of typo domains.
 
@@ -15,6 +15,11 @@ gem install bundler
 bundle install
 urlcrazy therecap.org
 ```
+
+***
+
+AWS Route 53 Lets you buy Domains for usually pretty cheap
+
 
 ***
 
