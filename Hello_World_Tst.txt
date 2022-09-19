@@ -20,7 +20,7 @@
 * Create an AWS S3 Bucket to receive emails back to our Domain we get earlier from Freenom 
     #If the victim responds back to our phishing email, you will be able to read the contents of there reply here
     
-*
+* Use Crosslinked Tool to find potential emails to attack
 
 
 *
