@@ -14,13 +14,29 @@
 
 * Created AWS Account for cloud - rroadrunner @ proton
 
-* Create an AWS EC2 Instance (This is pretty much just a dedicated aws server)
+* Favorite an AWS EC2 Instance (This is pretty much just a dedicated aws server)
     #Ec2 is the erver out victims will be connecting too
 
-* Create an AWS S3 Bucket to receive emails back to our Domain we get earlier from Freenom 
+* Favorite an AWS S3 Bucket to receive emails back to our Domain we get earlier from Freenom 
     #If the victim responds back to our phishing email, you will be able to read the contents of there reply here
     
-* Use Crosslinked Tool to find potential emails to attack
+* Create my first EC2 Instance - 
+           #Choose which type of Server you want to host this Instance: ( Canonical, Ubuntu, 22.04 LTS, amd64 jammy image build on 2022-06-09 )
+           
+           #Choose the type of instance: ( t.2.micro )
+           
+           # SUMMARY:
+           Software Image (AMI)
+           Canonical, Ubuntu, 22.04 LTS, ...read more
+           ami-085284d24fe829cd0
+           Virtual server type (instance type)
+           t2.micro
+           Firewall (security group)
+           New security group
+           Storage
+           1 volume(s) - 8 GiB
+
+* NEXT HERE
 
 
 *
