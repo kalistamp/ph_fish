@@ -34,6 +34,32 @@ you will need to change the content.
 
 * * * 
 
+This just simply explains how to turn(clone) any page and make it look exactly the same and injecting a malicious code not the full phishing guide you expect. Not for beginners but still useful.
+
+Requirements:
+CSS & JS Programming
+
+Steps:
+
+1. Install this browser extension. https://chrome.google.com/webstore/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof
+
+2. Clone the target page using the extension.
+
+3. Make a JS file with a function called "login" in the html directory then require it in the index html file.
+
+4. Get all the inputs selector in the html and in the button add the property onlick with the login function.
+
+3. Inject malicious code to the login(Send to webhook & etc using fetch API) function then host the files in Repl in an account with gibberish name also make the project title gibberish, buy a domain then apply the domain in the REPL project.
+
+
+
+
+
+Lastly I recommend you to obfuscate the js file using obfuscator.io
+
+
+* * *
+
 This is a Free hosting list to help you Host a static site
 it can be used to Host a simple site or just for developing your script
 
