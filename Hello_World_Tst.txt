@@ -25,6 +25,11 @@
            
            #Choose the type of instance: ( t.2.micro )
            
+           #Create a Key-Pair for your Instance and give it a name (.pem file): "ray_pizza"
+           This key pair will be used later when it is time to SSH into our server
+           
+           #REVIEW SUMMARY OF YOUR INSTANCE BEFORE FINALLY LAUNCHING IT ...
+           
            # SUMMARY:
            Software Image (AMI)
            Canonical, Ubuntu, 22.04 LTS, ...read more
@@ -35,6 +40,8 @@
            New security group
            Storage
            1 volume(s) - 8 GiB
+           
+           # After Instance is succesfully launched you will be given an Instance ID number for confirmation: (i-099d3b79cdb74ec2d)
 
 * NEXT HERE
 
