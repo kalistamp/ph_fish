@@ -69,9 +69,51 @@
             Description: 
             Dns
             
-            - 
+            - Next we will open Port 80 to allow HTTP Traffic to flow through Server (Since this instance is being used as  webserver this is essential to work):
+            Type:
+            Custom TCP
+            Protocol: 
+            TCP
+            Port range: 
+            80
+            Source type:
+            Anywhere-IPv4
+            Source: 
+            0.0.0.0/0
+            Description: 
+            HTTP
             
+            - Next will also open port 443 to allow our server to send and recieve secure traffic:
+            Type:
+            Custom TCP
+            Protocol: 
+            TCP
+            Port range: 
+            443
+            Source type:
+            Anywhere-IPv4
+            Source: 
+            0.0.0.0/0
+            Description: 
+            HTTPS
             
+            - Finally we are going to set up a port under "3333", now 3333 is not a standard port but is essential that it is open in order for gophish admin panel to access and work with the server, If this port is not available gophish admin panel will have no way to access and you will recieve the warning "Connection Timed out.":
+            Type:
+            Custom TCP
+            Protocol: 
+            TCP
+            Port range: 
+            3333
+            Source type:
+            Anywhere-IPv4
+            Source: 
+            0.0.0.0/0
+            Description: 
+            Gophihsh_admin
+            
+            # Now finalize all the new rules you have created by clicking "Create Security group" at the bottom.
+            
+* NEWNEW            
 
 
 
@@ -79,7 +121,3 @@
 *
 *
 *
-
-AWS Will not let me access ec2 because it is verifying my account still smh - - - 
-
-It might take up to 24 hours to fully activate your AWS services. If you can’t access your services after that time, contact support.
