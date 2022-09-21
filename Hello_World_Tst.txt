@@ -18,7 +18,7 @@
            #Choose which type of Server you want to host this Instance: ( Canonical, Ubuntu, 22.04 LTS, amd64 jammy image build on 2022-06-09 )
            
            #Choose the type of instance: ( t.2.micro )
-           
+                 
            #Create a Key-Pair for your Instance and give it a name (.pem file): "ray_pizza"
            This key pair will be used later when it is time to SSH into our server
            
@@ -37,7 +37,42 @@
            
            # After Instance is succesfully launched you will be given an Instance ID number for confirmation: (i-099d3b79cdb74ec2d)
 
-* NEXT HERE
+* NEXT We are going to Configure "security groups" for the new instance that we just created (ray_pizza). 
+            #Security groups are going to let you regulate which ports you decide to leave open or closed on the server.
+            
+            #Click on "Create new Security Group", Go into "Indbound Rules", "Add Rule"
+            - First we are going to create an open port that we can later SSH into:
+            Type:
+            Custom TCP
+            Protocol: 
+            TCP
+            Port range: 
+            22
+            Source type:
+            Anywhere-IPv4
+            Source: 
+            0.0.0.0/0
+            Description: 
+            SSh
+
+            - Next Rule we will change the "type" to "Custon UDP", and open port to allow DNS to work on our server:
+            Type:
+            Custom UDP
+            Protocol: 
+            UDP
+            Port range: 
+            53
+            Source type:
+            Anywhere-IPv4
+            Source 
+            0.0.0.0/0
+            Description: 
+            Dns
+            
+            - 
+            
+            
+
 
 
 *
