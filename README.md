@@ -30,9 +30,25 @@ Tools:
 
 ***
 
-CLOUD: 
-- Netlify
-- Railway
+CLOUD: Top free webhosting 
+
+1. Vercel
+2. Netlify
+3. Heroku
+4. Render
+5. Railway
+6. GitHub Pages
+7. InfinityFree
+8. Wix
+9. 000WebHost
+10. Google Cloud Hosting
+11. AwardSpace
+12. Freehostia
+13. FreeHosting
+14. ByetHost
+15. HyperPHP
+16. FreeWebHostingArea
+
 
 ***
  ``` Disclaimer: Usage of this information for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this programs ```
