@@ -5,8 +5,6 @@ THIS : https://lots-project.com/
 
 https://udayton.edu/cybersecurity/_resources/documents/gophish-install-instructions_final.pdf
 
-https://null-byte.wonderhowto.com/forum/complete-guide-creating-and-hosting-phishing-page-for-beginners-0187744/
-
 https://cybersecurityguide.org/resources/phishing/
 
 https://classroom.anir0y.in/post/tryhackme-phishingyl/
