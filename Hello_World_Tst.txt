@@ -129,10 +129,11 @@ ssh -i /home/kali/Desktop/gophish.pem ubuntu@44.201.169.181
                         Both TXT files (Check status of files w/ 'dig <hostname> TXT' )
                         CNAME file
             - Create SMTP settings to test an email witht he newly configured domain 
+                        On left-hand side, go to "sending", then "domain settings", "SMTP credentials", and Reset password and copy the newly generated password given to you (I like to save this into a txt file to keep for my records).
 
 ---> Note: mailgun .mx records seem to never verify so we are going ahead to skip them this time. If you want to read the response that the victim sends back then you will want to add your mx records 
 
-* NEW NEW
+* Log into gophish panel, click on "Sending Profiles", add new profile, 
 
 
 
