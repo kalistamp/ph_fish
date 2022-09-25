@@ -5,6 +5,8 @@
 
 ```  ssh -i /home/kali/Desktop/gophish.pem ubuntu@44.201.169.181 ```
 
+***
+
 
 ### Copy & Pastes :
 
@@ -13,10 +15,7 @@ Forum replys on phishing -
 phishing with reverse proxies is alright | modlishka / evilnginx 
 
 
-
-
-
-### QUESTIONS :
+QUESTIONS :
 
 
 Q:
