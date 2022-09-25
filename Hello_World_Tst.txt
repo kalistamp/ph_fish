@@ -128,7 +128,7 @@ ssh -i /home/kali/Desktop/gophish.pem ubuntu@44.201.169.181
             - Copy over the records that are provided by Mailgun and submit them over to the site you aquired Domain from: 
                         Both TXT files (Check status of files w/ 'dig <hostname> TXT' )
                         CNAME file
-            - 
+            - Create SMTP settings to test an email witht he newly configured domain 
 
 ---> Note: mailgun .mx records seem to never verify so we are going ahead to skip them this time. If you want to read the response that the victim sends back then you will want to add your mx records 
 
