@@ -125,7 +125,9 @@ ssh -i /home/kali/Desktop/gophish.pem ubuntu@44.201.169.181
 
             - Start by adding the domain to your mailgun dashboard
             - Open your DNS records/settings from whatever site you chose to obtain your Domain from (ex. Freenom, route 53, etc..)
-            - Copy over the records that are provided by Mailgun and submit them over to the site you aquired Domain from
+            - Copy over the records that are provided by Mailgun and submit them over to the site you aquired Domain from: 
+                        Both TXT files
+                        CNAME file
             - 
 
 ---> Note: mailgun .mx records seem to never verify so we are going ahead to skip them this time. If you want to read the response that the victim sends back then you will want to add your mx records 
