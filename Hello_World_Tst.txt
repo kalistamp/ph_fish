@@ -115,7 +115,13 @@ https://aws.amazon.com/
             
             # Now finalize all the new rules you have created by clicking "Create Security group" at the bottom.
             
-* NEWNEW            
+* Once Instance choices are made and a security group we created is assigned to that insatance we can go ahead and launch.
+
+* To test if your instance is currently open and accepting traffic through its ports you can go and try to ssh into the server with the .pem key on port 22:
+
+ssh -i /home/kali/Desktop/gophish.pem ubuntu@44.201.169.181
+
+* NEW NEW
 
 
 
