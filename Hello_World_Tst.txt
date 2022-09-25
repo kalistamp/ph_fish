@@ -133,11 +133,18 @@ ssh -i /home/kali/Desktop/gophish.pem ubuntu@44.201.169.181
 
 ---> Note: mailgun .mx records seem to never verify so we are going ahead to skip them this time. If you want to read the response that the victim sends back then you will want to add your mx records 
 
-* Log into gophish panel, click on "Sending Profiles", add new profile, 
+* Log into gophish panel, click on "Sending Profiles", add new profile:
+            Name: <Any name of choice>
+            SMTP From: <anyname_joedirt>@<phishingdomain.ck>
+            Host: smtp.mailgun.org:587
+            Username: postmaster@<your_domain>
+            Pass: Paste in password we copied to txt file
+            * Press "send test email"
+      
+
+* Next Next
 
 
-
-*
 *
 *
 *
