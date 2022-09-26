@@ -170,6 +170,8 @@ Enter: chmod 600 <sha_key.pem>
 * Now that gophish is fully installed and configed it is time to run the program inside opf our EC2 instance:
 
             sudo ./gophish
+            admin
+            dumdog12
 
 * Next Next
 
