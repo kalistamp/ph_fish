@@ -163,11 +163,15 @@ Enter: chmod 600 <sha_key.pem>
             go build ( Once gophish is done build you can type ls again to confirm the new gophish file is created and present )
             
             - Next we are going to edit the config.json file, you can use nano or vim to do this:
+            nano into the config.json file 
+            We are going ot change the "listen_url" from 127 to 0.0.0.0:3333 so that gophish admin panel can be accessed from any ip (Note that the port being used is still 3333)
+            Save and exit nano
             
+* Now that gophish is fully installed and configed it is time to run the program inside opf our EC2 instance:
+
+            sudo ./gophish
 
 * Next Next
 
-
-*
 *
 *
