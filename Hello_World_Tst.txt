@@ -159,7 +159,10 @@ Enter: chmod 600 <sha_key.pem>
             go get github.com/gophish/gophish
             cd go | cd src | cd github.com | cd gophish 
             
-            - Next
+            - Next we are going to build gophish program using go: ( run ls to make sure the gophish.go file is present in the directory )
+            go build ( Once gophish is done build you can type ls again to confirm the new gophish file is created and present )
+            
+            - Next we are going to edit the config.json file, you can use nano or vim to do this:
             
 
 * Next Next
