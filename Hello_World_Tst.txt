@@ -145,6 +145,8 @@ Enter: chmod 600 <sha_key.pem>
             * Press "send test email"
       
 
+* Next we are going to ssh back into our EC2 instance so that we can begin installing gophish.
+
 * Next Next
 
 
