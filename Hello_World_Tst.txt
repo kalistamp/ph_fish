@@ -146,6 +146,13 @@ Enter: chmod 600 <sha_key.pem>
       
 
 * Next we are going to ssh back into our EC2 instance so that we can begin installing gophish.
+            - To make sure all of our programs run correctly we are going to update all the packages on out ubuntu ec2 instance:
+            sudo apt-get update
+            sudo apt-get upgrade
+            
+            - Install golang:
+            sudo apt-get install golang
+            
 
 * Next Next
 
