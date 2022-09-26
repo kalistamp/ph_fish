@@ -8,7 +8,7 @@ https://aws.amazon.com/
 * Obtained a Domain from Freenom (http://raymondspizzeria.cf/) 
     #Chose to grab a domain from Freenom instead of AWS Route 53 even tho i will be using most AWS for this first tester campaign 
 
-* Created AWS Account for cloud - rroadrunner @ proton
+* Created AWS Account for cloud - rroadrunner
 
 * Favorite an AWS EC2 Instance (This is pretty much just a dedicated aws server)
     #Ec2 is the erver out victims will be connecting too
