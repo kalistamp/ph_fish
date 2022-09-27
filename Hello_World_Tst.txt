@@ -173,9 +173,9 @@ Enter: chmod 600 <sha_key.pem>
             admin
             dumdog12
 
-* Next we will install and config Evilnginx2 inside the instance as well (Open a new tab, ssh back into the EC2, and complete the steps to install Evilnginx)
+* Next we will install and config Evilginx2 inside the instance as well (Open a new tab, ssh back into the EC2, and complete the steps to install Evilginx)
 
-            - Since go is already installed we can eneter the following commands to set up Evilnginx2:
+            - Since go is already installed we can eneter the following commands to set up Evilginx2:
             
             sudo apt-get -y install git make
             git clone https://github.com/kgretzky/evilginx2.git
@@ -190,8 +190,11 @@ Enter: chmod 600 <sha_key.pem>
 
 
 
+* Now that evilginx2 is istalled and running it is time to finish setting up the program to exucute the way we want it to:
+
+
+
 * NEXT NEXT
-*
 *
 *
 *
