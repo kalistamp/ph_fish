@@ -33,6 +33,7 @@ https://sidb.in/posts/phishing-101/#final-thoughts
 ***
 Tools:
 
+* https://github.com/kgretzky/evilginx2
 * https://github.com/jaykali/maskphish
 * https://github.com/fin3ss3g0d/evilgophish
 * https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/phishing
