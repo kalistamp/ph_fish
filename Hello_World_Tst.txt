@@ -181,6 +181,10 @@ Enter: chmod 600 <sha_key.pem>
             git clone https://github.com/kgretzky/evilginx2.git
             cd evilginx2
             make
+            
+            - If everything was done right you should be able to go ahead and run the program:
+            
+            sudo ./bin/evilginx -p ./phishlets/
 
 
 
