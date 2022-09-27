@@ -157,7 +157,7 @@ Enter: chmod 600 <sha_key.pem>
             
             - Install gophish:
             go get github.com/gophish/gophish
-            cd go | cd src | cd github.com | cd gophish 
+            cd go | cd src | cd github.com | cd gophish --> [ /home/ubuntu/go/src/github.com/gophish/gophish ]
             
             - Next we are going to build gophish program using go: ( run ls to make sure the gophish.go file is present in the directory )
             go build ( Once gophish is done build you can type ls again to confirm the new gophish file is created and present )
