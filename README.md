@@ -1,7 +1,4 @@
 
-
-add sign ins :
-
 * https://account.proton.me/login
 
 * https://aws.amazon.com/console/
