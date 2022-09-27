@@ -5,6 +5,23 @@
 
 ```  ssh -i /home/kali/Desktop/gophish.pem ubuntu@44.201.169.181 ```
 
+* Fix Error !!! ---> 
+
+time="2022-09-27T04:31:18Z" level=warning msg="No contact address has been configured."
+time="2022-09-27T04:31:18Z" level=warning msg="Please consider adding a contact_address entry in your config.json"
+goose: no migrations to run. current version: 20220321133237
+time="2022-09-27T04:31:18Z" level=info msg="Starting admin server at https://0.0.0.0:3333"
+time="2022-09-27T04:31:18Z" level=fatal msg="listen tcp 0.0.0.0:3333: 
+
+bind: address already in use"
+
+SOLUTION: 
+
+The 'already in use' error means that another process is already listening on port 3333. You might have another instance of gophish running. You can run this command to see what's on that port:
+
+``` sudo netstat -ltnp | grep -w ':3333' ```
+
+
 ***
 
 
