@@ -1,4 +1,10 @@
 
+U admin panel .. how do i get it ??
+
+https://fr3d.hk/blog/u-admin-show-tell
+
+* * * 
+
 ### NOTES:
 
 * How i ssh into my aws server (instance ?) with the downloaded pem key :
