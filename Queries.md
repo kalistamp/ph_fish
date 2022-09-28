@@ -3,6 +3,9 @@ U admin panel .. how do i get it ??
 
 https://fr3d.hk/blog/u-admin-show-tell
 
+read this over for phishing site analysis
+
+https://blog.group-ib.com/0ktapus
 * * * 
 
 ### NOTES:
