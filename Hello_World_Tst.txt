@@ -193,7 +193,21 @@ Enter: chmod 600 <sha_key.pem>
 
 
 
-* Now that evilginx2 is istalled and running it is time to finish setting up the program to exucute the way we want it to:
+* Now that evilginx2 is istalled and running it is time to finish setting up the program to exucute the way we want it to (Complete the steps to properly configure evilginx2:):
+
+            - Set up the domain you are using (Enter the domain that you are using): 
+            
+            config domain raymondspizzeria.cf
+            
+            - Tell evilginx what IP it should be running on (Enter the ip from your ec2 instance):
+            
+            config ip 44.201.169.181
+            
+* Now we are going to create additional DNS Record that will be used when our victim actually clicks to be directed to our domain page (Go back over to freenom and go into DNS Management):
+            
+            
+            
+            
 
 
 
