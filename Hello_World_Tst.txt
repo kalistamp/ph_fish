@@ -209,8 +209,18 @@ Enter: chmod 600 <sha_key.pem>
             
             name: login.raymondspizzeria.cf | Type: A | Target or Value: <ec2 ip> 44.201.169.181
 
+* Now back to Evilginx2:
+
+            - We need to choose one of the phishlets that we weant to use and configure it in evilginx:
+            
+            phishlets hostname <pick one, i like onelogin> <enetr whatever dns we just created>
+            
+            [ex.] phishlets hostname onelogin login.raymondspizzeria.cf
+            [output] [04:57:58] [inf] disabled phishlet 'onelogin' 
+
+
+
 * NEXT NEXT
-*
 *
 *
 *
