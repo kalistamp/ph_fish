@@ -172,6 +172,9 @@ Enter: chmod 600 <sha_key.pem>
             sudo ./gophish
             admin
             dumdog12
+            
+            Error: bind: " address already in use "
+            Solution: [Source](https://github.com/gophish/gophish/issues/2234)
 
 * Next we will install and config Evilginx2 inside the instance as well (Open a new tab, ssh back into the EC2, and complete the steps to install Evilginx)
 
