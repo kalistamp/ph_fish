@@ -59,6 +59,8 @@ you will need to change the content.
 
 * * * 
 
+### Turn any page into a phishing page(Advance)
+
 This just simply explains how to turn(clone) any page and make it look exactly the same and injecting a malicious code not the full phishing guide you expect. Not for beginners but still useful.
 
 Requirements:
@@ -84,6 +86,8 @@ Lastly I recommend you to obfuscate the js file using obfuscator.io
 
 
 * * *
+
+### Hosting:
 
 This is a Free hosting list to help you Host a static site
 it can be used to Host a simple site or just for developing your script
