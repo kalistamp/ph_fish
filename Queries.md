@@ -87,6 +87,12 @@ Lastly I recommend you to obfuscate the js file using obfuscator.io
 
 * * *
 
+* When u have generated link, just mask URL (example Phishmask tool) and send
+
+https://nomorz.com/
+
+* * *
+
 ### Hosting:
 
 This is a Free hosting list to help you Host a static site
