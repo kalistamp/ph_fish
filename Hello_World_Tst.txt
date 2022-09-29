@@ -217,6 +217,12 @@ Enter: chmod 600 <sha_key.pem>
             
             [ex.] phishlets hostname onelogin login.raymondspizzeria.cf
             [output] [04:57:58] [inf] disabled phishlet 'onelogin' 
+            
+            - Now we need to enable the phishlet 'onelogin' that we just configured:
+            
+            phishlets enable onelogin
+            
+            
 
 
 
