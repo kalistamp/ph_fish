@@ -17,6 +17,14 @@ namecheap accepts btc
 
 *  freenom has an API For companies that will automatically disable any free domains at a single API request made by them -- 
 
+Another reply :
+
+you don't need a domain to do phishing i have a site that can help you,
+
+>>>  here the link : https://nomorz.com/index.php? 
+
+https://www.facebook.com/people/Anomor-website/100084228355578/
+
 
 ***
 
