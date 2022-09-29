@@ -15,6 +15,9 @@ porkbun domain
 namecheap accepts btc
 
 
+*  freenom has an API For companies that will automatically disable any free domains at a single API request made by them -- 
+
+
 ***
 
 ### NOTES:
