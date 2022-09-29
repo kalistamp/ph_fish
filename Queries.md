@@ -8,6 +8,15 @@ read this over for phishing site analysis
 https://blog.group-ib.com/0ktapus
 * * * 
 
+What or where is the best way to anon obtain a cheap domain to set up phish campaign ?
+
+porkbun domain 
+
+namecheap accepts btc
+
+
+***
+
 ### NOTES:
 
 * How i ssh into my aws server (instance ?) with the downloaded pem key :
