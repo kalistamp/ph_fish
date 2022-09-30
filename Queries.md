@@ -10,7 +10,9 @@ https://blog.group-ib.com/0ktapus
 
 What or where is the best way to anon obtain a cheap domain to set up phish campaign ?
 
-porkbun domain 
+Bro I never paid for domains for phishing, When I use phishing attack i use my host and generated link in ngrok then I just masked with PhishMask tool and sending emails.
+
+https://tld-list.com/ - porkbun domain 
 
 namecheap accepts btc
 
