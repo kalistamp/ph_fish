@@ -38,6 +38,7 @@ Tools:
 * https://github.com/fin3ss3g0d/evilgophish
 * https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/phishing
 * Premade Phishing Templates: https://github.com/xHak9x/SocialPhish
+* https://github.com/t4d/StalkPhish
 
 
 ***
