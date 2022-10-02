@@ -1,4 +1,6 @@
 
+https://github.com/gophish/gophish/issues/2590
+
 U admin panel .. how do i get it ??
 
 https://fr3d.hk/blog/u-admin-show-tell
