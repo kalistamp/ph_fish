@@ -222,14 +222,6 @@ Enter: chmod 600 <sha_key.pem>
             
             phishlets enable onelogin
             
-            *********************************** >>>>>>>>>>>>>>>>>>> 
-            
-            [ DELETE THIS ] 
-            
-            THIS IS WHERE I STOPPED, dns RECORDS WERE NOT FOUND TO ENABLE ... (CHECK ROUTE53 AND TRY AGAIN )
-            
-            *****************************************
-            
             - Next we need to creates out lures:
             
             lures create onelogin
