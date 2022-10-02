@@ -230,7 +230,7 @@ Enter: chmod 600 <sha_key.pem>
             
             - Next we are going to want to get our actual url for out phish:
             
-            lures get-url url 0
+            lures get-url 0
             
 * Now open a new wwbbrowser and test out this new link produced by Evilginx and make sure that it works ! ! !
             
