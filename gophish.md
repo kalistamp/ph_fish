@@ -1,9 +1,4 @@
 
-### GOPHISH Infrasctrucure Tool:
-
-WATCH OVER MY STREAM AND DOCUMENT HOW TO CORRECTLY INSTALL GOPHISH INTO KALI LINUX:
-
-***
 
 ### Installation on Host:
 
@@ -30,26 +25,62 @@ Your temporary credentials for the GoPhish Admin Panel will be printed in the lo
 
 ***
 
-### Installation on Cloud:
+## Installation on Cloud:
 
+* SSH into the EC2 instance that you have created...
+* To make sure all of our programs run correctly we are going to update all the packages on our instance:
+```sudo apt-get update``` | ```sudo apt-get upgrade```
+
+* Install golang:
+```sudo apt-get install golang```
+
+NOTE: I recieved the error: go: go.mod file not found in current directory or any parent directory
+
+Solution: go env -w GO111MODULE=auto (source: https://stackoverflow.com/questions/67929883/go-error-go-go-mod-file-not-found-in-current-directory-or-any-parent-director)
+            
+* Install gophish:
+go get github.com/gophish/gophish
+```cd go | cd src | cd github.com | cd gophish --> [ /home/ubuntu/go/src/github.com/gophish/gophish ]```
+
+* Next we are going to build gophish program using go: ( run ls to make sure the gophish.go file is present in the directory )
+```go build``` ( Once gophish is done build you can type ls again to confirm the new gophish file is created and present )
+
+* Next we are going to edit the config.json file, you can use nano or vim to do this:
+
+``nano``` into the config.json file 
+We are going ot change the "listen_url" from 127 to ```0.0.0.0:3333``` so that gophish admin panel can be accessed from any ip (Note that the port being used is still 3333)
+
+Save and exit nano
+
+* Now that gophish is fully installed and configed it is time to run the program inside opf our EC2 instance:
+
+```sudo ./gophish```
+admin
+password
+            
+Error: ```" bind: address already in use "```
+
+Solution: [Source](https://github.com/gophish/gophish/issues/2234)
 
 
 ***
 
-### Campaign:
+## Setup:
+
+* Campaign:
 
 Here on this Tab you will be able to see all the statistics from your phishing campaign such as who clicked your email, who submitted credentials, and more things like that ... You can not start a Campaign untill all Tabs Below are completed 
 
 ***
 
-### User & Groups:
+* User & Groups:
 
 This is were you will input who you plan on sending your emails out too. You can put in the The name
 
 
 ***
 
-### Email Template:
+## Email Template:
 
 This is where you will enter the HTML code which will determine how your email will be displayed ( See reference below ) 
 
