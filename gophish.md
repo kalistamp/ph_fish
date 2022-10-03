@@ -5,7 +5,7 @@ WATCH OVER MY STREAM AND DOCUMENT HOW TO CORRECTLY INSTALL GOPHISH INTO KALI LIN
 
 ***
 
-THIS IS MY OWN ATTEMPT OT DOWNLOAD GOPHISH ON KALI RIGHT NOW _ _ 
+### Installation on Host:
 
 * Install gophish by downloading the binary for your system from the most current release available: [RELEASE](https://github.com/gophish/gophish/releases/)
 
@@ -27,6 +27,12 @@ After the Config.json file is configured correctly you can now run the binary:
 [ You should run gophish in the same tmux session as evilginx2 ]
 
 Your temporary credentials for the GoPhish Admin Panel will be printed in the logs from the running gophish binary.
+
+***
+
+### Installation on Cloud:
+
+
 
 ***
 
