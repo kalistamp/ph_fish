@@ -32,7 +32,7 @@ Your temporary credentials for the GoPhish Admin Panel will be printed in the lo
 
 ### Campaign:
 
-Here on this Tab you will be able to see all the statistics from your phishing campaign such as who clicked your email, who submitted credentials, and more things like that ...
+Here on this Tab you will be able to see all the statistics from your phishing campaign such as who clicked your email, who submitted credentials, and more things like that ... You can not start a Campaign untill all Tabs Below are completed 
 
 ***
 
