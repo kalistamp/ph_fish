@@ -75,12 +75,12 @@ Here on this Tab you will be able to see all the statistics from your phishing c
 
 * User & Groups:
 
-This is were you will input who you plan on sending your emails out too. You can put in the The name
+This is were you will input who you plan on sending your emails out too. You can manually enter the victims name and email address or you can go ahead and just import a CSV file List that you can aquired 
 
 
 ***
 
-## Email Template:
+* Email Template:
 
 This is where you will enter the HTML code which will determine how your email will be displayed ( See reference below ) 
 
@@ -100,7 +100,7 @@ Now, in the HTML tab, modify the contents to your own liking - (Crafting a convi
 
 *** 
 
-### Landing page:
+* Landing page:
 
 The landing page is what you want users to “land” on once they click on the link in the email. 
 
@@ -112,15 +112,8 @@ NOTE: If you would like to test a simpilar phish and do not want to set up evilg
 
 ***
 
-### Sending Profile:
+* Sending Profile:
 
 This is referring to who the email is going to be coming from, This could be something like ``I.T. Administrator```, or `company support```, or anyone who you choose to impersonate.
 
 Whatever you choose, this identity is being spoofed by whatever domain we just obtained earlier
-
-
-
-***
-
-( CHECK OVER THIS WHOLE FILE BRIEFLY AND FIGURE IT OUT - - -)
-
