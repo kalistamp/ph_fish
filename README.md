@@ -10,25 +10,17 @@
 
 ***
 
-CHECK -
+### CHECK:
 
-THIS : https://lots-project.com/
+* https://lots-project.com/
 
-https://udayton.edu/cybersecurity/_resources/documents/gophish-install-instructions_final.pdf
+* https://udayton.edu/cybersecurity/_resources/documents/gophish-install-instructions_final.pdf
 
-https://cybersecurityguide.org/resources/phishing/
-
-https://classroom.anir0y.in/post/tryhackme-phishingyl/
-
-Knowbe4 Phishing security Test
-
-https://breakdev.org/evilginx-2-next-generation-of-phishing-2fa-tokens/
+* Knowbe4 Phishing security Test
 
 https://outpost24.com/blog/Better-proxy-than-story
 
-[Microsoft](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulation-training?view=o365-worldwide)
-
-https://sidb.in/posts/phishing-101/#final-thoughts
+* https://sidb.in/posts/phishing-101/#final-thoughts
 
 ***
 Tools:
