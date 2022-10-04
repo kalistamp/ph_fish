@@ -1,7 +1,8 @@
 
 
-* https://github.com/kgretzky/evilginx2
+```https://github.com/kgretzky/evilginx2```
 
+```NOTE: You can run EVILGINX2 in a tmux session so that when you quit your ssh connection, the tool keeps on running.```
 
 ### Introduction:
 
@@ -96,8 +97,6 @@ https://www.therecap.org/
 ```
 
 Once that is in you can navigate to the lure URL to make sure its works properly.
-
-NOTE: You can run EVILGINX2 in a tmux session so that when you quit your ssh connection, the tool keeps on running.
 
 
 
