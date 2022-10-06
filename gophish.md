@@ -60,7 +60,7 @@ password
             
 Error: ```" bind: address already in use "```
 
-Solution: [Source](https://github.com/gophish/gophish/issues/2234)
+Solution: ```sudo fuser -k 80/tcp``` [Source](https://github.com/gophish/gophish/issues/709)
 
 
 ***
