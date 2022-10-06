@@ -12,6 +12,8 @@
 
 ### CHECK:
 
+* https://payatu.com/blog/shlok/phishing-infrastructure-setup
+
 * https://lots-project.com/
 
 * https://udayton.edu/cybersecurity/_resources/documents/gophish-install-instructions_final.pdf
