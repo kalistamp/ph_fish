@@ -126,3 +126,13 @@ Once that is in you can navigate to the lure URL to make sure its works properly
 ```lures get-url 0```
 
 * Now open a new wwbbrowser and test out this new link produced by Evilginx and make sure that it works ! ! !
+
+***
+
+### Tokens and Credentials:
+
+```lures``` -  Shows all current actives lures that are available to be used
+
+```sessions``` - Shows active sessions currently runnings 
+
+```sessions <session_# Here>``` - will display all credentials and cookies captured fromt he session you choose 
