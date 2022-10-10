@@ -12,6 +12,8 @@
 
 ### CHECK:
 
+* https://www.sprocketsecurity.com/resources/never-had-a-bad-day-phishing-how-to-set-up-gophish-to-evade-security-controls
+
 * https://payatu.com/blog/shlok/phishing-infrastructure-setup
 
 * https://lots-project.com/
