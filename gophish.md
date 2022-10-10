@@ -39,7 +39,8 @@ NOTE: I recieved the error: go: go.mod file not found in current directory or an
 Solution: go env -w GO111MODULE=auto (source: https://stackoverflow.com/questions/67929883/go-error-go-go-mod-file-not-found-in-current-directory-or-any-parent-director)
             
 * Install gophish:
-go get github.com/gophish/gophish
+```go get github.com/gophish/gophish```
+
 ```cd go | cd src | cd github.com | cd gophish --> [ /home/ubuntu/go/src/github.com/gophish/gophish ]```
 
 * Next we are going to build gophish program using go: ( run ls to make sure the gophish.go file is present in the directory )
