@@ -68,6 +68,12 @@ Solution: ```sudo fuser -k 80/tcp``` [Source](https://github.com/gophish/gophish
 
 ### Modification setup
 
+In the file config.go there is a Server variable set to “gophish” out of the box. So what is the best way to change this? We don’t want to spoof any mail client or server because it might tip our hand (Trust me on this!). So instead, let’s opt to set the value to IGNORE.
+
+[From] ```const ServerName = "gophish"```
+
+[To] ```const ServerName = "IGNORE"```
+
 There are numerous blogs and articles on how to setup and configure Gophish and the assets. In the following steps we will summarize some of these activities that will help us to launch our phishing campaign properly (i.e. not falling flat on your face and getting caught by spamfilters of internet proxies).
 
 After navigating to the cloned directory, run the following command to replace the default Gophish headers and servers name with the custom values:
@@ -75,15 +81,6 @@ After navigating to the cloned directory, run the following command to replace t
 ```find . -type f -exec sed -i.bak 's/X-Gophish-Contact/X-Contact/g' {} +```
 
 ```find . -type f -exec sed -i.bak 's/X-Gophish-Signature/X-Signature/g' {} +```
-
-This will make our message less obvious phishing, as by default they shout GOPHISH which defeats the purpose if you wish to remain stealthy. Then we will move on and modify the ServerName parameter under the /gophish/config/config.go file path as follows:
-
-[From] ```const ServerName = "gophish"```
-
-[To] ```const ServerName = "IGNORE"```
-
-
-
 
 ***
 
