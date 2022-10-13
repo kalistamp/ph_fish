@@ -31,6 +31,18 @@ you don't need a domain to do phishing i have a site that can help you,
 
 https://www.facebook.com/people/Anomor-website/100084228355578/
 
+***
+
+Threat actors are getting better at slipping phishing attacks through the weak spots in platform email defenses, using a variety of techniques, such as zero-point font obfuscation, hiding behind cloud-messaging services, and delaying payload activation, for instance. They're also doing more targeting and research on victims.
+
+The actors investigate their victims using open source intelligence to obtain lots of information about their victim [and] craft very realistic phishing emails to get them to click a URL, open an attachment, or simply do what the email tells them to do, like in the case of business e-mail compromise (BEC) attacks," he says.
+
+The data suggests that attackers are also getting better at analyzing defensive technologies and determining their limitations. To get around systems that detect malicious URLs, for example, cybercriminals are increasingly using dynamic websites that may appear legitimate when an email is sent at 2 a.m., for example, but will present a different site at 8 a.m., when the worker opens the message.
+
+OneDrive, Google Drive, Teams, Share Point, Slack, Box,
+
+Instead of scanning every url that is received, security companies are using “time of click analysis” because only 1% of malicious urls are actually clicked 
+
 
 ***
 
