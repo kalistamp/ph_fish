@@ -1,5 +1,9 @@
 
-### Options for getting a Domain:
+
+
+***
+
+### Sources for getting a Domain:
 
 * [Freenom](https://www.freenom.com/en/index.html?lang=en)
 * AWS Route 53
@@ -26,13 +30,11 @@ urlcrazy therecap.org
 
 ### Choosing A Phishing Domain:
 
-[ Expired/OLD Domains are better than new ones to avoid spam folder ] 
+Aged Domains:
 
-Choosing the right Phishing domain to launch your attack from is essential to ensure you have the psychological edge over your target. A red team engagement can use some of the below methods for choosing the perfect domain name.
+The first thing an individual should do prior to setting up any infrastructure is make sure a domain is suitable for the specific engagement. It is best practice to use aged domains due as newer domains are susceptible to being flagged for being recently created. Organizations can actually configure their email filtering to recongize newly registered domains to ensure they are blocked from entering their employees' mailboxes.
 
-Expired Domains:
-
-Although not essential, buying a domain name with some history may lead to better scoring of your domain when it comes to spam filters. Spam filters have a tendency to not trust brand new domain names compared to ones with some history
+The best way to have domains on hand is to buy around 10 every 2-3 months to have multiple domains readily available to choose from for upcoming engagements. Domains with generic keywords such as 'corporate' or 'internal' are the best route when purchasing domains in bulk from registrar sites. There are various registrar sites (e.g., namecheap.com, godaddy.com, etc.) that indidivuals can purchase domains.
 
 Typosquatting:
 
@@ -75,24 +77,4 @@ https://www.brightcloud.com/tools/url-ip-lookup.php
 https://archive.lightspeedsystems.com/
 https://multirbl.valli.org/
 https://mxtoolbox.com/blacklists.aspx
-
-***
-
-### Authenticate your Domain:
-
-What is Domain Authentication ?
-
-Domain authentication, formerly known as domain whitelabel, shows email providers that SMTP providers (such as SendGrid in this example) has your permission to send emails on your behalf. To give SendGrid permission, we need to point DNS entries from your DNS provider (like GoDaddy, Cloudflare, etc) to SendGrid. By doing that our recipients will no longer see the "via sendgrid.net" message on our phished emails.
-
-Email service providers do not trust messages that have not set up domain authentication because they cannot be sure of the legitimacy of the message. Explicitly stating that it comes from our registered domain increases the reputation with email service providers which makes it much less likely that they will filter the mail and not allow it get to the recipient's inbox, which increases the deliverability.
-
-Login to your SendGrid account and navigate at Sender Authentication under Settings:
-1. Click on the "Authenticate Your Domain" under Domain Authentication section.
-2. Select your Domain provided under DNS host option and specify Yes under the question "Would you also like to brand the links for this domain?"
-3. Enter your domain and expand the Advanced Settings option. From the Advanced Settings checkbox and apply the following values accordingly:
-
-- Use custom link subdomain
-- Use a common DKIM selector 
-
-
 
