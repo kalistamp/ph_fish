@@ -12,6 +12,8 @@
 
 ### CHECK:
 
+* https://www.optiv.com/insights/source-zero/blog/spear-phishing-modern-platforms
+
 * https://www.sprocketsecurity.com/resources/never-had-a-bad-day-phishing-how-to-set-up-gophish-to-evade-security-controls
 
 * https://payatu.com/blog/shlok/phishing-infrastructure-setup
@@ -20,9 +22,7 @@
 
 * https://udayton.edu/cybersecurity/_resources/documents/gophish-install-instructions_final.pdf
 
-* Knowbe4 Phishing security Test
-
-https://outpost24.com/blog/Better-proxy-than-story
+* https://outpost24.com/blog/Better-proxy-than-story
 
 * https://sidb.in/posts/phishing-101/#final-thoughts
 
