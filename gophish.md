@@ -76,12 +76,6 @@ In the file config.go there is a Server variable set to “gophish” out of the
 
 There are numerous blogs and articles on how to setup and configure Gophish and the assets. In the following steps we will summarize some of these activities that will help us to launch our phishing campaign properly (i.e. not falling flat on your face and getting caught by spamfilters of internet proxies).
 
-After navigating to the cloned directory, run the following command to replace the default Gophish headers and servers name with the custom values:
-
-```find . -type f -exec sed -i.bak 's/X-Gophish-Contact/X-Contact/g' {} +```
-
-```find . -type f -exec sed -i.bak 's/X-Gophish-Signature/X-Signature/g' {} +```
-
 ***
 
 ## Setup:
