@@ -12,6 +12,8 @@
 
 ### CHECK:
 
+* https://shells.systems/customising-an-existing-evilginx-phishlet-to-work-with-modern-citrix/
+
 * https://www.optiv.com/insights/source-zero/blog/spear-phishing-modern-platforms
 
 * https://www.sprocketsecurity.com/resources/never-had-a-bad-day-phishing-how-to-set-up-gophish-to-evade-security-controls
