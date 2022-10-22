@@ -4,6 +4,8 @@
 
 ```NOTE: You can run EVILGINX2 in a tmux session so that when you quit your ssh connection, the tool keeps on running.```
 
+Commands: https://en.kali.tools/?p=963
+
 ### Introduction:
 
 Evilginx2 is a man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection. 
