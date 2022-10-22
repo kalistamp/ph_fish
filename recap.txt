@@ -236,7 +236,16 @@ Enter: chmod 600 <sha_key.pem>
             
 
 
-* NEXT NEXT 
+****
+
+[ NEW NOTES, ADD THESE ADDITIONS IN THE RIGHT PLACE AFTER YOU GO BACK OVER AND REVIEW THEM ]
+
+
+* Create your own ssl not using evilginx2 ...
+
+Prior to configuring our phishlet with evilginx2, add a reputable SSL certificate to our EC2 instance. This prevents evilginx2 from pulling certificates for you and makes our site appear more reputable. There are various certificate authorities to choose from outside of the default authority evilginx2 uses. 
+
+You will save the private key and certificate from the authority you use to your EC2 instance. Once you have saved both of the keys, create a directory under the user you are using to install evilginx, named '.evilginx'.
 *
 *
 *
