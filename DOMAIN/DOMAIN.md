@@ -1,5 +1,7 @@
 
+### Check Domain Age: 
 
+https://www.whatsmydns.net/domain-age
 
 ***
 
