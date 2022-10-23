@@ -44,6 +44,13 @@ NOTE: Ignore warning - ```[!!!] Failed to start nameserver on port 53```
 
 ***
 
+* Now we are going to create additional DNS Record that will be used when our victim actually clicks to be directed to our domain page (Go back over to freenom and go into DNS Management):
+            
+            - Instead of just showing the main domain that we have aquired we are going to create some more realistic DNS records that can help make the full URL more believable for whatever we are choosing to do
+            
+            name: login.raymondspizzeria.cf | Type: A | Target or Value: <ec2 ip> 44.201.169.181
+
+
 ### Configuring EvilGinx2 on Host:
 
 ```
