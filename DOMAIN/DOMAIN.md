@@ -1,13 +1,17 @@
 
-### Check Domain Age: 
+### Check Domain Age & Reputation: 
 
-https://www.whatsmydns.net/domain-age
+* https://www.whatsmydns.net/domain-age
+* https://search.censys.io/
+* https://www.criminalip.io/domain
+
 
 ***
 
 ### Sources for getting a Domain:
 
 * [Freenom](https://www.freenom.com/en/index.html?lang=en)
+* [Porkbun](https://porkbun.com/)
 * AWS Route 53
 * https://www.domnest.com/tld/sh
 * https://tld-list.com/
@@ -15,18 +19,6 @@ https://www.whatsmydns.net/domain-age
 https://www.expireddomains.net/
 * [catphish](https://github.com/ring0lab/catphish)
 * [urlcrazy](https://github.com/urbanadventurer/urlcrazy)
-
-URLCRAZY Setup:
-
-``` 
-git clone https://github.com/urbanadventurer/urlcrazy.git
-cd urlcrazy
-sudo -s
-gem install bundler
-bundle install
-urlcrazy therecap.org
-```
-* After running URLCRAZY you will see a Full list of all Typo Domains that were discovered. The domains with the question-mark are ones we can choose from... The rest are in use and not available. 
 
 ***
 
