@@ -11,26 +11,33 @@ Commands: https://en.kali.tools/?p=963
 Evilginx2 is a man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection. 
 What is means is Evilginx2 is siting in the communication between our victim and the actual legitimate login page capturing all traffic passed through. This means we can also capture the session cookies and inout them into our own browser allowing us to successfully authenticate ourselves as the victim, when it is time to login with the credentials we have aquired.
 
-### Configuring EvilGinx2 on Cloud:
+### Installation:
 
-Install and config Evilginx2 inside the instance you have created (Open a new tab, ssh back into the EC2, and complete the steps to install Evilginx)
+```sudo apt update```
 
-* Since go is already installed we can eneter the following commands to set up Evilginx2:
-            
-```
-sudo apt-get -y install git make
-git clone https://github.com/kgretzky/evilginx2.git
-cd evilginx2
-make
-```
-            
+```sudo apt install git```
+
+```sudo apt install git make```
+
+```sudo apt install golang-go```
+
+```sudo apt-get -y install git make```
+
+```git clone https://github.com/kgretzky/evilginx2.git```
+
+```cd evilginx2```
+
+```make```
+
 * If everything was done right you should be able to go ahead and run the program:
             
 ```sudo ./bin/evilginx -p ./phishlets/```
             
 NOTE: Ignore warning - ```[!!!] Failed to start nameserver on port 53```
 
+### Configuring EvilGinx2 on Cloud:
 
+[scp yaml file into EC2 instance] - < ADD HERE >
 
 * Now that evilginx2 is istalled and running it is time to finish setting up the program to exucute the way we want it to (Complete the steps to properly configure evilginx2:):
 
