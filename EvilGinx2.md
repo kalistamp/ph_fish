@@ -37,7 +37,8 @@ NOTE: Ignore warning - ```[!!!] Failed to start nameserver on port 53```
 
 ### Configuring EvilGinx2 on Cloud:
 
-[scp yaml file into EC2 instance] - < ADD HERE >
+[scp yaml file into EC2 instance] - ```scp -i /home/kali/Desktop/Runner_temp/AWS/google_god.pem /home/kali/Pictures/google.yaml ~ ubuntu@34.216.90.19:```
+
 
 * Now that evilginx2 is istalled and running it is time to finish setting up the program to exucute the way we want it to (Complete the steps to properly configure evilginx2:):
 
