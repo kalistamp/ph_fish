@@ -236,7 +236,7 @@ Enter: chmod 600 <sha_key.pem>
             
             - Next we need an SSL Certificate for our domain so that it can be trusted by web-browsers
             
-            * Create your own ssl not using evilginx2 ...
+            * Create your own ssl not using evilginx2 ... ( CHECK DAILY_PY FOR CODE )
             
             - Now we need to enable the phishlet 'onelogin' that we just configured:
             
