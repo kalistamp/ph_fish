@@ -215,6 +215,10 @@ Enter: chmod 600 <sha_key.pem>
             
             config ip 44.201.169.181
             
+            - If you leave the ‘redirect_url’ to the default, you will not only rick roll an unauthorized user but it will definitely correlate the site being used as an evilginx server.
+            
+            config redirect_url https://google.com
+            
 * Now we are going to create additional DNS Record that will be used when our victim actually clicks to be directed to our domain page (Go back over to freenom and go into DNS Management):
             
             - Instead of just showing the main domain that we have aquired we are going to create some more realistic DNS records that can help make the full URL more believable for whatever we are choosing to do
