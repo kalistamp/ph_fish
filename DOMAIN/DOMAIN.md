@@ -10,6 +10,8 @@
 
 ### Sources for getting a Domain:
 
+* Namesilo
+* Nicenic (Hong Kong Based)
 * [Freenom](https://www.freenom.com/en/index.html?lang=en)
 * [Porkbun](https://porkbun.com/)
 * AWS Route 53
